@@ -34,8 +34,8 @@ Their strategy? **High-frequency, high-reliability launches that sustained momen
 Source: Provided by Maven Analytics
 
 Files Included:
-- space_mission.csv
-- space_mission_data_dictionary.csv
+- [space_mission.csv](https://github.com/JoDaTan/space-mission/blob/main/space_missions.csv)
+- [space_mission_data_dictionary.csv](https://github.com/JoDaTan/space-mission/blob/main/space_missions_data_dictionary.csv)
 
 Model Structure - Star Schema
 - Fact: Missions
