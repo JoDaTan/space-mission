@@ -4,6 +4,9 @@ This project is my submission for the Maven Analytics [Return to Space Challenge
 Using the global dataset of space missions from 1957 to 2022, I developed a one-page Power BI visualisation that tells the story of humanity’s journey to space.
 
 The dashboard is designed to answer **three Big Space Questions:**
+1. What is the golden era of space travel
+2. Which rocket is the champion of space travel
+3. What is the winning team (Country/Company) and its strategy?
 
 # The Big Space Questions
 
@@ -14,9 +17,9 @@ Russia led this era, with **RVSN USSR** emerging as a launch powerhouse:
 - 94.2% success rate
 - An astonishing launch pace of one mission every 5 days
 
-## 2. Which Rocket is the Champion of Space Travel?
+## 2. Champion of Space Travel
 Using only Total Launches and Success Rate, I ranked rockets based on their operational history and reliability.
-The visualisation highlights top performers like **Cosmos-3M, Voskhod, and Molniya-M,** showing how launch frequency and success rate together define rocket excellence — without relying on composite scores.
+The visualisation highlights top performers like **Cosmos-3M, Voskhod, and Molniya-M,** showing how launch frequency and success rate together define rocket excellence.
 
 ## 3. The Winning Team and Its Strategy
 Although the United States launched slightly more missions (1,467) than Russia (1,416), Russia emerged as the long-term leader with a **93.4% success rate** — the highest among major spacefaring nations.
